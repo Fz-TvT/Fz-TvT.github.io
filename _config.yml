@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Fangzhe chen(陈方浙)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "When all else is lost the future still remains. "
+  location         : "Hangzhou,Zhejiang"
+  # employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wulicfz@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
